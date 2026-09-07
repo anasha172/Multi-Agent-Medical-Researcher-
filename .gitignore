@@ -1,0 +1,13 @@
+.env
+.venv/
+.idea/
+.claude/
+__pycache__/
+*.pyc
+data/lancedb/*
+!data/lancedb/.gitkeep
+.pytest_cache/
+*.egg-info/
+.DS_Store
+medresearch.pid
+medresearch.log*

@@ -1,0 +1,14 @@
+.venv/
+.git/
+.gitignore
+.idea/
+__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+data/lancedb/*
+!data/lancedb/.gitkeep
+.env
+*.log
+Dockerfile
+.dockerignore
